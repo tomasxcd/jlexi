@@ -7,8 +7,8 @@ public class GlyphTest {
 
 	@Test
 	public void testGlyph() {
-		Glyph glyph = new Glyph();
+		Glyph glyph = new Character();
 		Assert.assertNotNull(glyph);
 	}
-	
+
 }
